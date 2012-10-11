@@ -1,4 +1,4 @@
 VHDL-Lab
 ========
 
-A repo for our work with VHDL
+A repo for our work with VHDL!
